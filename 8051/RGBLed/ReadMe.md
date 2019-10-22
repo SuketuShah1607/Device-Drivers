@@ -9,7 +9,7 @@ a) void RGBLed_Init(mode)
   
 b) void SetColor(RED,GREEN<BLUE)
 
-  This function accepts 3 arguments, that is intensity of each pin(red,green,blue) in range 0-255.It turns ON RGB Led
+  Turn ON RGB Led. Accepts 3 arguments, that is intensity of each pin(red,green,blue) in range 0-255.
   
   
 c) void void RGBLed_Stop()
